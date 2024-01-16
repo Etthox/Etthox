@@ -5,15 +5,15 @@
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=1000&color=9A2F82&center=true&vCenter=true&width=435&lines=Opa+eai%2C+bem-vindo(a)!)](https://git.io/typing-svg)
  
-<strong><p>Meu nome é <strong>Renan</strong> e atualmente sou desenvolvedor <strong>full-stack. </strong>Sou apaixonado em estudar, programar, tudo que envolva pensar.</strong>  <img src="https://slackmojis.com/emojis/32826-retro_sun/download" alt="party blob" width="30" align='center'></p></div>
+<strong><p>Meu nome é <strong>Renan</strong> e atualmente sou desenvolvedor full-stack. </strong>Sou apaixonado em programação, musculação e jogos.</strong>  <img src="https://slackmojis.com/emojis/32826-retro_sun/download" alt="party blob" width="30" align='center'></p></div>
 <hr style="border: 1px solid black;">
 
 Atualmente, tenho conhecimento em:</br></br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,nextjs,nodejs,postgres,prisma,react,redis,redux,regex,replit,sass,tailwind,ts,vercel,vite,mongodb,figma,firebase,git,github,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,postgres,redux,regex,figma,firebase,git,github,flutter,dart,python,django,flask,sqlserver)](https://skillicons.dev)
 
 </br>
 
-Tenho uma rotina bem focada em meu desenvolvimento pessoal e profissional, sou totalmente dedicado pra dar tudo oque tenho em tudo que faço para alcançar meus objetivos. <br>
+Tenho uma rotina bem focada em meu desenvolvimento pessoal e profissional, a cada dia que passa, busco melhorar em algo, seja no meu conhecimento,físico ou até mesmo desenvolvimento interpessoal. <br>
 
 
 <div align='center'>
