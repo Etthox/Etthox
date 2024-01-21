@@ -13,7 +13,7 @@ Atualmente, tenho conhecimento em:</br></br>
 
 </br>
 
-Tenho uma rotina bem focada em meu desenvolvimento pessoal e profissional, a cada dia que passa, busco melhorar em algo, seja no meu conhecimento,físico ou até mesmo desenvolvimento interpessoal. <br>
+Tenho uma rotina bem focada em meu desenvolvimento pessoal e interpessoal, a cada dia que passa, busco melhorar em algo, seja no meu conhecimento,físico ou até mesmo desenvolvimento pessoal. <br>
 
 
 <div align='center'>
