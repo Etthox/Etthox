@@ -1,8 +1,6 @@
 <div align='center'>
 
- 
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4500&pause=1000&color=9A2F82&center=true&vCenter=true&width=435&lines=Opa+eai%2C+bem-vindo(a)!)](https://git.io/typing-svg)
+
  
 <strong><p>Meu nome é <strong>Renan</strong> e atualmente sou desenvolvedor Back-end. </strong>Sou apaixonado em programação, musculação e jogos.</strong>  <img src="https://slackmojis.com/emojis/32826-retro_sun/download" alt="party blob" width="30" align='center'></p></div>
 <hr style="border: 1px solid black;">
