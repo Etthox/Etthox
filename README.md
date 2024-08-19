@@ -2,7 +2,7 @@
 
 
  
-<strong><p>Meu nome é <strong>Renan</strong> e atualmente sou desenvolvedor Mobile. </strong>Sou apaixonado em programação, musculação e jogos.</strong>  alt="party blob" width="30" align='center'></p></div>
+<strong><p>Meu nome é <strong>Renan</strong> e atualmente sou desenvolvedor Mobile. </strong>Sou apaixonado em programação, musculação e jogos.</strong>  ></p></div>
 <hr style="border: 1px solid black;">
 
 Atualmente, tenho conhecimento em:</br></br>
